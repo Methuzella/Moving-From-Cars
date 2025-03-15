@@ -1,0 +1,7 @@
+Student Database Management System
+Concepts: Classes, references, pointers, file I/O
+Description: Create a system where you can add, delete, and modify student records. Each student has attributes like name, age, grade, etc. Use classes for students and implement a simple database using pointers and references to manage the data.
+
+2. Bank Account System
+Concepts: Classes, pointers, constructors, destructors
+Description: Create a class BankAccount that allows for deposits, withdrawals, and checking balances. Implement features like interest calculation or account types (checking, savings). Use constructors to initialize account details and destructors to clean up memory.
